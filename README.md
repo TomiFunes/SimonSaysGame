@@ -27,19 +27,6 @@ This game replicates the classic *Simon Says* memory challenge. Each round, the 
 4. **Game Over**  
    If you click the wrong button, the game resets. Press any key to try again.
 
-## 📁 Project Structure
-
-/simon-game/
-│
-├── index.html # Main HTML structure
-├── styles.css # Styling for layout and animations
-├── game.js # JavaScript logic using jQuery
-└── /sounds/ # Sound files for each button and "wrong" alert
-
-markdown
-Copiar
-Editar
-
 ## 💡 Features
 
 - Dynamic game logic with scalable difficulty  
